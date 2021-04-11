@@ -7,6 +7,8 @@ I implement logical features such as:
 - length option between 8 and 128
 - choice of lowercase, uppercase, numeric and/or special characters
 
+![Image](demo.png)
+
 ## Built With
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
